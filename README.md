@@ -1,43 +1,61 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20SkyWhy&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%"/>
+<h1 align="center">SkyWhy / developer</h1>
 
-  <p align="center">
-    Software developer building practical applications, automation tools, and system utilities :)
-  </p>
-
-  <p align="center">
-    <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-</div>
-
----
-
-### About Me
-
-- 🚀 Focused on mobile development, automation scripts, and background services.
-- 🛠 Paying attention to stability, low resource consumption, and modular code.
-- ⚡ Open to interesting collaborations and open-source contributions.
-
----
-
-### Tech Stack
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,cs,git,github,bash,linux&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
 </div>
 
----
-
-### GitHub Activity
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="145" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
 </div>
 
----
+###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=footer" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
 </div>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+###
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
