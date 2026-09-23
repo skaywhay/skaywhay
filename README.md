@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20SkyWhy&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%"/>
 
   <p align="center">
     Software developer building practical applications, automation tools, and system utilities :)
