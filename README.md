@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/skaywhay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=500&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+SkyWhy+%F0%9F%91%8B;Python+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%F0%9F%90%8D;Frontend+(HTML5+%26+CSS3)+%F0%9F%8E%A8;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+SkyWhy+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Frontend+(HTML5+%26+CSS3)+%F0%9F%8E%A8;Building+clean+%26+aesthetic+apps+%F0%9F%9A%80;Always+learning+and+creating+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,8 +15,8 @@
     <a href="https://github.com/skaywhay">
       <img src="https://img.shields.io/badge/GitHub-skaywhay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://t.me/your_telegram">
-      <img src="https://img.shields.io/badge/Telegram-Написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <a href="https://t.me/SkyWhySsS">
+      <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </p>
 
@@ -24,20 +24,21 @@
 
 ---
 
-### 👨‍💻 Обо мне / About Me
+### 👨‍💻 About Me
 
-- 🔭 **Основной стек**: Пишу скрипты, бэкенд и логику на **Python**, верстаю адаптивные и современные страницы на **HTML5** & **CSS3**.
-- 💡 **Интересы**: Веб-разработка, автоматизация рутинных процессов, создание ботов и чистый UI/UX.
-- 🎯 **В планах**: Углублять знания современных технологий и развивать собственные open-source проекты.
-- ⚡ **Хобби**: Эксперименты со стилями, нестандартными интерфейсами и алгоритмами.
+- 🔭 **Primary Stack**: Developing scripts, backend logic, and automation with **Python**, and crafting modern, responsive interfaces using **HTML5** & **CSS3**.
+- 💡 **Interests**: Web development, workflow automation, bot creation, and clean UI/UX design.
+- 🌱 **Currently Learning**: Advancing software architecture patterns and modern frontend techniques.
+- 🎯 **Goals**: Building impactful open-source projects and constantly polishing my engineering craft.
+- ⚡ **Fun Fact**: Passionate about slick dark themes, smooth animations, and clean codebases.
 
 ---
 
-### 🛠️ Технологии и Стек / Tech Stack
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-  #### 🚀 Основные языки & Вёрстка
+  #### 🚀 Core Languages & Frontend
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,html,css" height="50" alt="Python, HTML, CSS" />
@@ -50,7 +51,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  #### ⚙️ Инструменты разработки
+  #### ⚙️ Developer Tools & Environment
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" alt="Git, GitHub, VS Code" />
@@ -67,7 +68,7 @@
 
 ---
 
-### 📊 Статистика GitHub / GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -94,7 +95,7 @@
 
 ---
 
-### 🐍 Игровая сетка активности / GitHub Snake
+### 🐍 Contribution Activity Snake
 
 <div align="center">
   <picture>
