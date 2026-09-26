@@ -66,32 +66,7 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=skaywhay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaywhay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skaywhay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=skaywhay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </p>
-
-</div>
 
 ---
 
